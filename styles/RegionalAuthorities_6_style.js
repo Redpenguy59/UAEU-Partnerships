@@ -101,7 +101,7 @@ function categories_RegionalAuthorities_6(feature, value, size, resolution, labe
                                                   bufferWidth)
                         })];
                         break;
-                    case '14) Culture and Culutral Heritage Partnership of the UAEU (2019-2024)':
+                    case '14) Culture and Cultural Heritage Partnership of the UAEU (2019-2024)':
                         return [ new ol.style.Style({
                             image: new ol.style.Icon({
                                 imgSize: [1000, 1000],
