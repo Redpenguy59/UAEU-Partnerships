@@ -112,7 +112,7 @@ function categories_RegionalAuthorities_6(feature, value, size, resolution, labe
                                 rotation: 0.0,
                                 src: "styles/Regional Authorities_6.svg"
                             }),
-                            text: createTextStyle(feature, resolution, labelText, labelFont,
+                            text: createTextStyle(feature, resolution, '14) Culture and Cultural Heritage Partnership of the UAEU (2019-2024)', labelFont,
                                                   labelFill, placement, bufferColor,
                                                   bufferWidth)
                         })];
